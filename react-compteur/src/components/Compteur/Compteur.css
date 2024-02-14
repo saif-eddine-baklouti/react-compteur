@@ -1,0 +1,11 @@
+  * {
+    font-size: max(50);
+    
+  }
+  .compteur {
+    background-color: aquamarine;
+  }
+  
+  button + button {
+    margin-left: 12px;
+  }
